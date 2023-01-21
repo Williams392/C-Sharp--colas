@@ -1,0 +1,8 @@
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.exe.config
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.exe
+D:\EstDat\semana03_parte2\caso\caso\bin\Debug\caso.pdb
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.AssemblyReference.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.SuggestedBindingRedirects.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.csproj.CoreCompileInputs.cache
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.exe
+D:\EstDat\semana03_parte2\caso\caso\obj\Debug\caso.pdb
